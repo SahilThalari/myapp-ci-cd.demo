@@ -1,4 +1,5 @@
-// index.js
+// src/index.js
+
 function add(a, b) {
     return a + b;
 }
